@@ -5,4 +5,4 @@
 
 #Feito isso, iniciar projeto no visual studio code, ou outra ide de sua preferencia e dá os comandos: yarn add @vue/cli
 #para instalar o yarn
-# por ultimo, executar comando yarn run dev para iniciar projeto mo acesso local. (obs: api tem que está rodando, escutando na porta 3000).
+#por ultimo, executar comando yarn run dev para iniciar projeto mo acesso local. (obs: api tem que está rodando, escutando na porta 3000
